@@ -1,0 +1,18 @@
+Using locale 'C.UTF-8'.
+
+
+Thu Jun 11 11:27:41 2026
+Command line: PhotoRec /log /d recovered_files fat32.img
+
+PhotoRec 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 6.8.0-1052-azure (#58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026) x86_64
+Compiler: GCC 13.2
+ext2fs lib: 1.47.0, ntfs lib: libntfs-3g, ewf lib: none, libjpeg: libjpeg-turbo-2.1.5, curses lib: ncurses 6.4
+User is not root!
+Hard disk list
+Disk fat32.img - 10 MB / 10 MiB - CHS 320 2 32 (RO), sector size=512
+
+Can't open photorec.ses file: No such file or directory
+SIGINT detected! PhotoRec has been killed.
